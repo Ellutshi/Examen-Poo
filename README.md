@@ -104,11 +104,11 @@ Le projet suit une architecture en couches.
 ```
 Interface Graphique (Views)
             │
-            ▼
-Services Métier (Services)
+            ▼\
+Modèles (Models)
             │
             ▼
-Modèles (Models)
+Services Métier (Services)
             │
             ▼
 Base de données SQLite
@@ -230,7 +230,7 @@ L'application réalise plusieurs validations :
 ## 1. Cloner le projet
 
 ```bash
-git clone https://github.com/votre-compte/EduManager.git
+git clone https://github.com/Ellutshi/EduManager.git
 ```
 
 ou télécharger le projet.
